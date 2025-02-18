@@ -14,20 +14,8 @@ A simple and elegant website for the **Masidup** group, built with **HTML**, **C
   
 ---
 
-## Folder Structure
-masidup-website/
-├── index.html # Homepage
-├── styles.css # Global styles
-├── script.js # JavaScript for animations and rating
-├── profiles/ # Folder for profile pages
-│ ├── joelliane.html # Joelliane's profile
-│ ├── cindy.html # Cindy's profile
-│ ├── louisa.html # Louisa's profile
-│ └── darren.html # Darren's profile
-└── project.html # Project page with rating system
-
 ## Technologies Used
-HTML: For structuring the website.
-CSS: For styling and animations.
-JavaScript: For interactive features like the rating system.
+- HTML: For structuring the website.
+- CSS: For styling and animations.
+- JavaScript: For interactive features like the rating system.
 
